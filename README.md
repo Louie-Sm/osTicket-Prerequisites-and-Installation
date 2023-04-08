@@ -28,6 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://i.imgur.com/OtNxGkK.png" height="80%" width="80%" alt="control panel setup Steps"/>
+
 Step 1
 </p>
 <p>
@@ -37,6 +38,7 @@ First you will need to run control panel as an admin in order to enable IIS(inte
 
 <p>
 <img src="https://i.imgur.com/3nxkQGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 2
 </p>
 <p>
@@ -48,7 +50,7 @@ You can test to make sure everything is enabled by typing in 127.0.0.1 into your
 <img src="https://i.imgur.com/B6p9Bro.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://i.imgur.com/IQmAbsy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Step 
+Step 3
 </p>
 <p>
 Now that IIS is installed and enabled next is to download and install some of the prerequisite programs needed in order to operate OS Ticket Such as PHP manager and Rewrite module
@@ -57,6 +59,7 @@ Now that IIS is installed and enabled next is to download and install some of th
 
 <p>
 <img src="https://i.imgur.com/6VsgfMZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 4
 </p>
 <p>
@@ -66,6 +69,7 @@ After installing PHP manager and before installing the remaining prerequisites w
 
 <p>
 <img src="https://i.imgur.com/s7UXG2Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 5
 </p>
 <p>
@@ -75,6 +79,7 @@ We will then be extracting all of the contents of the PHP.7.3.8 prerequisite fil
 
 <p>
 <img src="https://i.imgur.com/s6yPLSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 6
 </p>
 <p>
@@ -84,6 +89,7 @@ Next install the prerequisite program file Microsoft Visual C++ Redistributable
 
 <p>
 <img src="https://i.imgur.com/27wJKIi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 7
 </p>
 <p>
@@ -93,6 +99,7 @@ The next step is to install the MySQL Server program as a typical setup type, wh
 
 <p>
 <img src="https://i.imgur.com/ZhUIqL6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 8
 </p>
 <p>
@@ -102,6 +109,7 @@ After you finish the installation it will launch the MySQL Instance configuratio
 
 <p>
 <img src="https://i.imgur.com/lWt0hNi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 9
 </p>
 <p>
@@ -111,6 +119,7 @@ Leave configuration settings the same and enter a root password, be sure to make
 
 <p>
 <img src="https://i.imgur.com/txxES5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 10
 </p>
 <p>
@@ -122,6 +131,7 @@ Next we will open IIS as an admin and using the PHP manager we installed we will
 <img src="https://i.imgur.com/Z5kcs71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://i.imgur.com/ozv7jcp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 11
 </p>
 <p>
@@ -131,6 +141,7 @@ Next we will install OS ticket by first downloading the osTicket-v1.15.8 Zip fil
 
 <p>
 <img src="https://i.imgur.com/Co0hp81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 12
 </p>
 <p>
@@ -140,6 +151,7 @@ Using the IIS manager click on the Drop down menu for your machine and go to “
 
 <p>
 <img src="https://i.imgur.com/ZOmRDSb.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 13
 </p>
 <p>
@@ -156,6 +168,7 @@ Refresh the osTicket site in your browse to observe the changes
 
 <p>
 <img src="https://i.imgur.com/H8Uy6uw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 14
 </p>
 <p>
@@ -198,6 +211,7 @@ Using HeidiSQL, we will create a new database named “osTicket” by right clic
 
 <p>
 <img src="https://i.imgur.com/bC9oicj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 18
 </p>
 <p>
@@ -211,6 +225,7 @@ Click “Install Now!”
 
 <p>
 <img src="https://i.imgur.com/OGgxvI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 19
 </p>
 <p>
@@ -221,7 +236,7 @@ Congratulations your ticketing system should now be fully installed.
 <p>
 <img src="https://i.imgur.com/YE0uCUq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/oLf4AZP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oLf4AZP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 Step 20
 </p>
 <p>
